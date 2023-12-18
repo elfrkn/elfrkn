@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Elif</h1>
-<h3 align="center">A passionate iOS developer from Turkey</h3>
+<h3 align="center">A passionate .NET Developer from Turkey</h3>
 
 - 🔭 I’m currently working on **programming**
 
-- 🌱 I’m currently learning **Swift**
+- 🌱 I’m currently learning **.Net**
 
 - 💬 Ask me about **anything**
 
