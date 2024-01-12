@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Elif</h1>
-<h3 align="center">A passionate .NET Developer from Turkey</h3>
+<h3 align="center">FullStack .NET Developer from Turkey</h3>
 
 - 🔭 I’m currently working on **programming**
 
